@@ -1,0 +1,22 @@
+.elementor-48 .elementor-element.elementor-element-72f5779 > .elementor-container{max-width:1600px;}.elementor-48 .elementor-element.elementor-element-72f5779 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-48 .elementor-element.elementor-element-72f5779:not(.elementor-motion-effects-element-type-background), .elementor-48 .elementor-element.elementor-element-72f5779 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-48 .elementor-element.elementor-element-72f5779{box-shadow:0px 4px 44px 0px rgba(0, 0, 0, 0.14);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:23px 35px 23px 35px;}.elementor-48 .elementor-element.elementor-element-72f5779 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-48 .elementor-element.elementor-element-a8e8039.elementor-column > .elementor-widget-wrap{justify-content:space-between;}.elementor-48 .elementor-element.elementor-element-40962f0{width:auto;max-width:auto;}.elementor-48 .elementor-element.elementor-element-5ce2e59{text-align:left;width:auto;max-width:auto;}.elementor-48 .elementor-element.elementor-element-5ce2e59 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-48 .elementor-element.elementor-element-5ce2e59 .aux-menu-depth-0 > .aux-item-content{color:#3D3D3D;font-family:"Quicksand", Sans-serif;font-size:14px;font-weight:600;line-height:21px;padding:0px 18px 0px 18px;}.elementor-48 .elementor-element.elementor-element-5ce2e59 .aux-menu-depth-0.current-menu-item > a{font-weight:bold;}@media(max-width:1024px){.elementor-48 .elementor-element.elementor-element-72f5779{padding:20px 35px 20px 35px;}.elementor-48 .elementor-element.elementor-element-5ce2e59 > .elementor-widget-container{margin:20px 0px 0px 0px;}.elementor-48 .elementor-element.elementor-element-5ce2e59{width:100%;max-width:100%;}}@media(max-width:767px){.elementor-48 .elementor-element.elementor-element-5ce2e59 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-48 .elementor-element.elementor-element-5ce2e59{width:auto;max-width:auto;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-5ce2e59 */.elementor-48 .elementor-element.elementor-element-5ce2e59 .aux-menu-item:first-of-type .aux-item-content {
+    padding-left: 0 !important;
+}
+
+.elementor-48 .elementor-element.elementor-element-5ce2e59 .aux-menu-item:last-of-type .aux-item-content {
+    padding-right: 0 !important;
+}
+
+.elementor-48 .elementor-element.elementor-element-5ce2e59 .aux-burger {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.elementor-48 .elementor-element.elementor-element-5ce2e59 nav {
+    text-align: center;
+}
+
+@media only screen and ( max-width:768px) {
+    .elementor-48 .elementor-element.elementor-element-5ce2e59 .aux-nav-menu-element {
+        width: 20px;
+    }
+}/* End custom CSS */
